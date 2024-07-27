@@ -10,4 +10,6 @@ Personalized Content: Updated sections with my personal information, including m
 Email Integration: Added functionality to send emails directly from the website.
 Styling Adjustments: Altered styles and layout to better reflect my personal branding.
 Additional Features: Incorporated new elements and adjusted existing ones to enhance user experience.
+
+
 I would like to extend my thanks to HTML5 UP for providing such a versatile and well-designed template.ive-tools)
