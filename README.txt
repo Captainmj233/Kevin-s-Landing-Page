@@ -1,34 +1,13 @@
-Read Only by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+README
 
+Acknowledgements
+This portfolio website uses the "Read Only" template, provided by HTML5 UP. The template is designed and developed by AJKLN and is licensed under the Creative Commons Attribution 3.0 License (CC BY 3.0).
 
-Just a super simple single-page responsive template built for personal sites and portfolios
-(although it'd definitely work for other stuff too). Includes a contact form, pre-styled
-elements, and Sass sources.
+Modifications
+The original template has been customized to fit the needs of my portfolio. Changes made include:
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Personalized Content: Updated sections with my personal information, including my education, skills, and projects.
+Email Integration: Added functionality to send emails directly from the website.
+Styling Adjustments: Altered styles and layout to better reflect my personal branding.
+Additional Features: Incorporated new elements and adjusted existing ones to enhance user experience.
+I would like to extend my thanks to HTML5 UP for providing such a versatile and well-designed template.ive-tools)
